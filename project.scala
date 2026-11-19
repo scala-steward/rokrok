@@ -1,4 +1,4 @@
-//> using scala "3.8.3"
+//> using scala "3.8.4"
 //> using nativeVersion 0.5.10
 //> using nativeMode release
 
